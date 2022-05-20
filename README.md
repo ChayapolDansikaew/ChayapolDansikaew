@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>University</td>
-    <td> Chulalongkorn University </b></tl>
+    <td> Chulalongkorn University (Faculty of Science,ComSci) </b></tl>
 </table>
 <br/>
 
